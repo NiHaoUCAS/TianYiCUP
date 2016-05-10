@@ -1,0 +1,48 @@
+nohup: ignoring input
+read data begining
+read data successfully!!!
+read data took 22.786927s!
+299319 elem in dic_part
+zero_count= 20649643
+no_zero_count= 605514
+train set extract successfully!!!
+train set extract took 602.945126s!
+final set extract successfully!!!
+final set extract took 486.784129s!
+training took 5858.476119s!
+predict took 65.784569s!
+save predict file
+-------------------------
+
+nohup: ignoring input
+read data begining
+read data successfully!!!
+read data took 21.665979s!
+299319 elem in dic_part
+zero_count= 13766428
+no_zero_count= 605514
+train set extract successfully!!!
+train set extract took 407.778440s!
+final set extract successfully!!!
+final set extract took 465.592727s!
+training took 4556.803005s!
+predict took 67.291726s!
+save predict file
+-------------------------
+
+nohup: ignoring input
+read data begining
+read data successfully!!!
+read data took 23.669462s!
+299319 elem in dic_part
+zero_count= 6883214
+no_zero_count= 605514
+train set extract successfully!!!
+train set extract took 263.581069s!
+final set extract successfully!!!
+final set extract took 501.974417s!
+training took 2028.948586s!
+predict took 67.135501s!
+save predict file
+-------------------------
+

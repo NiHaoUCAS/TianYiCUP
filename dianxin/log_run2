@@ -1,0 +1,731 @@
+nohup: ignoring input
+read data begining
+read data successfully!!!
+read data took 23.397266s!
+10000 elem in dic_part
+no_zero_count= 47246
+zero_count= 676377
+train set extract successfully!!!
+train set extract took 12.413282s!
+test set extract successfully!!!
+test set extract took 9.996597s!
+training took 1.531441s!
+predict took 0.724263s!
+0.377632992907
+save predict file
+n_estimators= 1 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 27.2461643733 %
+recall= 0.442580945726 %
+F1= 0.871013334609 %
+-------------------------
+
+training took 1.621257s!
+predict took 0.703430s!
+0.372462543834
+save predict file
+n_estimators= 1 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 11.7182138745 %
+recall= 9.50384346611 %
+F1= 10.4955017865 %
+-------------------------
+
+training took 1.754494s!
+predict took 0.710083s!
+0.365711644235
+save predict file
+n_estimators= 1 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 11.7388756489 %
+recall= 9.50384346611 %
+F1= 10.5037811809 %
+-------------------------
+
+training took 1.971832s!
+predict took 0.736229s!
+0.363882313905
+save predict file
+n_estimators= 1 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 11.6875595502 %
+recall= 9.94642441183 %
+F1= 10.7469274109 %
+-------------------------
+
+training took 2.476841s!
+predict took 0.745124s!
+0.364587139302
+save predict file
+n_estimators= 1 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 10.0748050538 %
+recall= 23.9459585372 %
+F1= 14.1825660934 %
+-------------------------
+
+training took 2.813203s!
+predict took 0.722884s!
+0.365369301641
+save predict file
+n_estimators= 1 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 10.0909013402 %
+recall= 23.9459585372 %
+F1= 14.1985074984 %
+-------------------------
+
+training took 2.288518s!
+predict took 0.749824s!
+0.37888392627
+save predict file
+n_estimators= 2 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 28.0158010756 %
+recall= 0.442580945726 %
+F1= 0.871395972266 %
+-------------------------
+
+training took 2.694184s!
+predict took 0.747907s!
+0.374076433327
+save predict file
+n_estimators= 2 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 11.3729558012 %
+recall= 9.50384346611 %
+F1= 10.3547282606 %
+-------------------------
+
+training took 2.971167s!
+predict took 0.737453s!
+0.353572727295
+save predict file
+n_estimators= 2 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.56030589653 %
+recall= 94.3163289075 %
+F1= 12.2673396049 %
+-------------------------
+
+training took 3.455661s!
+predict took 0.766612s!
+0.349944058348
+save predict file
+n_estimators= 2 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.56381435825 %
+recall= 94.3163289075 %
+F1= 12.273473329 %
+-------------------------
+
+training took 4.063950s!
+predict took 0.782924s!
+0.351168738975
+save predict file
+n_estimators= 2 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 9.44685584217 %
+recall= 26.1588632658 %
+F1= 13.8808605167 %
+-------------------------
+
+training took 4.753523s!
+predict took 0.749027s!
+0.351776545611
+save predict file
+n_estimators= 2 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 8.81956260304 %
+recall= 35.3831819241 %
+F1= 14.1196747583 %
+-------------------------
+
+training took 2.874983s!
+predict took 0.740285s!
+0.378056130357
+save predict file
+n_estimators= 3 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 21.6352762143 %
+recall= 1.04821802935 %
+F1= 1.99955847668 %
+-------------------------
+
+training took 3.396231s!
+predict took 0.752891s!
+0.370139248288
+save predict file
+n_estimators= 3 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 9.84453837835 %
+recall= 23.6198462614 %
+F1= 13.896952567 %
+-------------------------
+
+training took 3.654732s!
+predict took 0.744206s!
+0.342930087539
+save predict file
+n_estimators= 3 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.50032840603 %
+recall= 94.3163289075 %
+F1= 12.1624169713 %
+-------------------------
+
+training took 4.136401s!
+predict took 0.730125s!
+0.339480533181
+save predict file
+n_estimators= 3 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.4962785811 %
+recall= 94.3163289075 %
+F1= 12.1553278423 %
+-------------------------
+
+training took 4.991279s!
+predict took 0.731258s!
+0.342085326557
+save predict file
+n_estimators= 3 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.48854637821 %
+recall= 94.3163289075 %
+F1= 12.1417912101 %
+-------------------------
+
+training took 6.219222s!
+predict took 0.790120s!
+0.346428758497
+save predict file
+n_estimators= 3 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.47830916759 %
+recall= 94.3163289075 %
+F1= 12.1238659096 %
+-------------------------
+
+training took 3.610088s!
+predict took 0.760405s!
+0.373055869311
+save predict file
+n_estimators= 4 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 11.8566332813 %
+recall= 5.14791521081 %
+F1= 7.17889602845 %
+-------------------------
+
+training took 3.996102s!
+predict took 0.788977s!
+0.379126813041
+save predict file
+n_estimators= 4 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 8.0989286987 %
+recall= 44.9802003261 %
+F1= 13.7263531632 %
+-------------------------
+
+training took 4.916036s!
+predict took 0.774271s!
+0.340253916254
+save predict file
+n_estimators= 4 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.47736872618 %
+recall= 94.3163289075 %
+F1= 12.1222190192 %
+-------------------------
+
+training took 5.883394s!
+predict took 0.776668s!
+0.332195756084
+save predict file
+n_estimators= 4 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.50093331529 %
+recall= 94.3163289075 %
+F1= 12.1634758027 %
+-------------------------
+
+training took 7.211512s!
+predict took 0.768753s!
+0.333611655547
+save predict file
+n_estimators= 4 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.5014016261 %
+recall= 94.3163289075 %
+F1= 12.1642955238 %
+-------------------------
+
+training took 8.716049s!
+predict took 0.778837s!
+0.343342571857
+save predict file
+n_estimators= 4 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.57347881237 %
+recall= 94.7356161193 %
+F1= 12.2939123236 %
+-------------------------
+
+training took 3.901784s!
+predict took 0.777783s!
+0.37545778368
+save predict file
+n_estimators= 5 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 11.6585493806 %
+recall= 5.14791521081 %
+F1= 7.14215930018 %
+-------------------------
+
+training took 4.863155s!
+predict took 0.755721s!
+0.39282310886
+save predict file
+n_estimators= 5 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 8.09266290346 %
+recall= 44.9802003261 %
+F1= 13.7173529529 %
+-------------------------
+
+training took 5.841473s!
+predict took 0.766748s!
+0.339305621925
+save predict file
+n_estimators= 5 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.43822698213 %
+recall= 94.3163289075 %
+F1= 12.0536471679 %
+-------------------------
+
+training took 7.041444s!
+predict took 0.782941s!
+0.328304385302
+save predict file
+n_estimators= 5 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 8.0619416922 %
+recall= 52.9932448171 %
+F1= 13.9948290791 %
+-------------------------
+
+training took 8.622393s!
+predict took 0.802906s!
+0.331618722908
+save predict file
+n_estimators= 5 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.47796476533 %
+recall= 94.3163289075 %
+F1= 12.1232627998 %
+-------------------------
+
+training took 10.374293s!
+predict took 0.803215s!
+0.345567727317
+save predict file
+n_estimators= 5 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.54154428431 %
+recall= 94.7356161193 %
+F1= 12.2380450968 %
+-------------------------
+
+training took 4.808198s!
+predict took 0.748289s!
+0.373868518793
+save predict file
+n_estimators= 6 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 11.1828403669 %
+recall= 9.50384346611 %
+F1= 10.2752055585 %
+-------------------------
+
+training took 5.654308s!
+predict took 0.763120s!
+0.402186153491
+save predict file
+n_estimators= 6 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 8.0886291631 %
+recall= 44.9802003261 %
+F1= 13.7115577495 %
+-------------------------
+
+training took 6.753815s!
+predict took 0.754404s!
+0.342979707668
+save predict file
+n_estimators= 6 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.4378739467 %
+recall= 94.3163289075 %
+F1= 12.0530284479 %
+-------------------------
+
+training took 8.094325s!
+predict took 0.791375s!
+0.328233886247
+save predict file
+n_estimators= 6 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.41303204751 %
+recall= 94.3163289075 %
+F1= 12.0094803373 %
+-------------------------
+
+training took 9.965805s!
+predict took 0.786045s!
+0.327856093606
+save predict file
+n_estimators= 6 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.5169654773 %
+recall= 94.7356161193 %
+F1= 12.1950221907 %
+-------------------------
+
+training took 12.233400s!
+predict took 0.809011s!
+0.3506191536
+save predict file
+n_estimators= 6 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.51176213539 %
+recall= 94.7822035872 %
+F1= 12.1862967853 %
+-------------------------
+
+training took 5.491067s!
+predict took 0.766710s!
+0.373627009572
+save predict file
+n_estimators= 7 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 9.57002023126 %
+recall= 23.6198462614 %
+F1= 13.6211699816 %
+-------------------------
+
+training took 6.102539s!
+predict took 0.785558s!
+0.401259801787
+save predict file
+n_estimators= 7 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 7.99312302938 %
+recall= 44.9802003261 %
+F1= 13.5740879491 %
+-------------------------
+
+training took 7.220753s!
+predict took 0.775869s!
+0.339548217288
+save predict file
+n_estimators= 7 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.37630692004 %
+recall= 94.3163289075 %
+F1= 11.9450614386 %
+-------------------------
+
+training took 9.704331s!
+predict took 0.784522s!
+0.334423148454
+save predict file
+n_estimators= 7 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.40992059884 %
+recall= 94.3163289075 %
+F1= 12.0040244213 %
+-------------------------
+
+training took 11.432132s!
+predict took 0.810134s!
+0.33284129774
+save predict file
+n_estimators= 7 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.48385224787 %
+recall= 94.7356161193 %
+F1= 12.137027539 %
+-------------------------
+
+training took 14.075154s!
+predict took 0.832194s!
+0.349522384837
+save predict file
+n_estimators= 7 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.52176974501 %
+recall= 94.7822035872 %
+F1= 12.2038196013 %
+-------------------------
+
+training took 5.977088s!
+predict took 0.748148s!
+0.374468780346
+save predict file
+n_estimators= 8 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 9.57009903748 %
+recall= 23.6198462614 %
+F1= 13.6212498054 %
+-------------------------
+
+training took 7.158412s!
+predict took 0.759163s!
+0.409201621073
+save predict file
+n_estimators= 8 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 8.04092492388 %
+recall= 44.9802003261 %
+F1= 13.6429550364 %
+-------------------------
+
+training took 8.785185s!
+predict took 0.804983s!
+0.352172487714
+save predict file
+n_estimators= 8 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.35720154974 %
+recall= 94.3163289075 %
+F1= 11.9115304604 %
+-------------------------
+
+training took 10.695529s!
+predict took 0.829057s!
+0.341043918187
+save predict file
+n_estimators= 8 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.34870547938 %
+recall= 94.3163289075 %
+F1= 11.8966153 %
+-------------------------
+
+training took 13.002613s!
+predict took 0.841665s!
+0.333903216194
+save predict file
+n_estimators= 8 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.46814236775 %
+recall= 94.7356161193 %
+F1= 12.1094999142 %
+-------------------------
+
+training took 16.191062s!
+predict took 0.856395s!
+0.353909197694
+save predict file
+n_estimators= 8 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.52230473099 %
+recall= 94.7822035872 %
+F1= 12.2047562371 %
+-------------------------
+
+training took 6.698770s!
+predict took 0.776748s!
+0.376488795718
+save predict file
+n_estimators= 9 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 9.54446179237 %
+recall= 23.6198462614 %
+F1= 13.5952614973 %
+-------------------------
+
+training took 8.092308s!
+predict took 0.794666s!
+0.425153380155
+save predict file
+n_estimators= 9 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 6.34746189538 %
+recall= 94.3163289075 %
+F1= 11.8944319318 %
+-------------------------
+
+training took 9.676252s!
+predict took 0.810736s!
+0.368900630353
+save predict file
+n_estimators= 9 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.34512764581 %
+recall= 94.3163289075 %
+F1= 11.8903335297 %
+-------------------------
+
+training took 12.049023s!
+predict took 0.831679s!
+0.343008032977
+save predict file
+n_estimators= 9 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.35475754995 %
+recall= 94.3163289075 %
+F1= 11.9072401878 %
+-------------------------
+
+training took 14.638523s!
+predict took 0.845280s!
+0.336761857418
+save predict file
+n_estimators= 9 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.45541604194 %
+recall= 94.7356161193 %
+F1= 12.0871939534 %
+-------------------------
+
+training took 17.845100s!
+predict took 0.879144s!
+0.357386342254
+save predict file
+n_estimators= 9 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.43441749039 %
+recall= 94.8520847892 %
+F1= 12.0513177893 %
+-------------------------
+
+training took 7.360929s!
+predict took 0.790501s!
+0.37777230783
+save predict file
+n_estimators= 10 learning_rate= 0.1 max_depth= 2
+read reference data successfully!
+read result data successfully!
+precision= 8.02196920165 %
+recall= 44.9802003261 %
+F1= 13.6156608273 %
+-------------------------
+
+training took 8.821311s!
+predict took 0.784644s!
+0.430166326782
+save predict file
+n_estimators= 10 learning_rate= 0.1 max_depth= 3
+read reference data successfully!
+read result data successfully!
+precision= 8.030367137 %
+recall= 44.9802003261 %
+F1= 13.6277553628 %
+-------------------------
+
+training took 10.699692s!
+predict took 0.797891s!
+0.367559052053
+save predict file
+n_estimators= 10 learning_rate= 0.1 max_depth= 4
+read reference data successfully!
+read result data successfully!
+precision= 6.33556032863 %
+recall= 94.3163289075 %
+F1= 11.8735335482 %
+-------------------------
+
+training took 14.179052s!
+predict took 0.841273s!
+0.347479833101
+save predict file
+n_estimators= 10 learning_rate= 0.1 max_depth= 5
+read reference data successfully!
+read result data successfully!
+precision= 6.48181523212 %
+recall= 94.5492662474 %
+F1= 12.1319274262 %
+-------------------------
+
+training took 16.653573s!
+predict took 0.855055s!
+0.345545133977
+save predict file
+n_estimators= 10 learning_rate= 0.1 max_depth= 6
+read reference data successfully!
+read result data successfully!
+precision= 6.41381554021 %
+recall= 94.7356161193 %
+F1= 12.0142398609 %
+-------------------------
+
+training took 21.145886s!
+predict took 0.860705s!
+0.366262512632
+save predict file
+n_estimators= 10 learning_rate= 0.1 max_depth= 7
+read reference data successfully!
+read result data successfully!
+precision= 6.40360455968 %
+recall= 94.8986722572 %
+F1= 11.9976290656 %
+-------------------------
+
